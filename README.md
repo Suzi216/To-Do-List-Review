@@ -1,5 +1,6 @@
 ![](https://img.shields.io/badge/Microverse-blueviolet)
 
+
 # TO-DO LIST
 > This is a project that create a simple todo tool that help you organize your day. This is build using ES6 and webpack.
 
@@ -20,6 +21,7 @@
 ** Install and run all the linters from this link:https://github.com/microverseinc/linters-config/tree/master/html-css-js**
 **Launch the project using this command npm run build**
 
+
 ## Live Demo (if available)
 
 [live demo](https://suzi216.github.io/To-Do-List/src/)
@@ -36,15 +38,18 @@
 
 Give a ⭐️ if you like this project!
 
+
 ## Contribution
 
 Contributions and issues [click](https://github.com/Suzi216/To-Do-List/issues) are most welcome !
+
 
 ## Acknowledgments
 
 - The design of this project is based from this website:[click](https://www.behance.net/gallery/29845175/CC-Global-Summit-2015)
 - Inspiration
 - etc
+
 
 ## 📝 License
 
