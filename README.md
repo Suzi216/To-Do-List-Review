@@ -24,7 +24,6 @@
 
 [live demo](https://suzi216.github.io/To-Do-List/src/)
 
-
 ## Authors
 
 👤 **Suzana Marsela**
